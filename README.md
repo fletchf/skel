@@ -1,4 +1,4 @@
-# skel
+# Learning Stable Koopman Embeddings (SKEL)
 
 Code to reproduce https://arxiv.org/abs/2110.06509
 
